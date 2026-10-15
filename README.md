@@ -16,7 +16,7 @@ An image-based grape leaf screening web application built with Flask and TensorF
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployed-Hugging%20Face%20Spaces-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
 
@@ -143,13 +143,13 @@ python app.py
 
 Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
-## ☁️ Hosted Demo
+## ☁️ Live Deployment — Hugging Face Spaces
 
-The project README previously listed this Hugging Face Space as the hosted demo:
+PhytoDetect AI is hosted on **Hugging Face Spaces**. Use the link below to open the deployed application:
 
-**[GrapeCare on Hugging Face Spaces](https://huggingface.co/spaces/gagangowda08/grape)**
+### [🚀 Launch GrapeCare Live](https://huggingface.co/spaces/gagangowda08/grape)
 
-Availability can depend on the hosting service and its current configuration.
+The live Space is the primary demo link for recruiters and reviewers. Hugging Face Spaces is the deployment platform documented for this project.
 
 ## 👨‍💻 Author
 
